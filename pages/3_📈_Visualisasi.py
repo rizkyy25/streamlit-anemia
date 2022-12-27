@@ -1,6 +1,5 @@
 import warnings
 from PIL import Image
-import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn import tree
